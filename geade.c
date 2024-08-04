@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX_STUDENTS 100
+#define MAX_STUDENTS 50
 
 typedef struct {
     char name[50];
